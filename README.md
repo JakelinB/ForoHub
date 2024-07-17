@@ -24,8 +24,8 @@ y luego puedes configurar).
 
 3. Abre el proyecto en IntelliJ 
 
-4. Define las siguientes variables de entorno en tu sistema operativo (Windows o Mac):
-    - SQL_USERNAME --> tu username para entrar en MySQL 
+4. Define las siguientes variables de entorno en tu sistema operativo, para evitar vulnerabilidades en la aplicación.
+    - SQL_USERNAME --> tu username para entrar en MySQL
     - SQL_PASSWORD --> tu username para entrar en MySQL
     - JWT_SECRET --> tu password para la autorización con JWT
 
